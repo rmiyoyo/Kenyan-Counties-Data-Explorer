@@ -1,7 +1,7 @@
 # Kenyan Counties Data Explorer Using D3.js
 
 ## Description
-This is an interactive website built using D3.js to explore Kenyan counties data in a meaningful way. 
+This is an interactive website built using D3.js to explore Kenyan counties data in a meaningful way. JavaScript project but might integrate Flask.
 
 ## Features
 - Customizable: 
@@ -24,3 +24,4 @@ Open a pull request with your changes if you would like to contribute. I try to 
 This project is licensed under the MIT License.
 
 ## Acknowledgments 
+TO-DO
